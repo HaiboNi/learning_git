@@ -17,10 +17,9 @@ def add(x,y):
 
 
 
-xadfsare 
 
+def function(x,y):
+	return x-y
+def func(x,y):
+	return x/y
 
-
-
-
-adsfe 
